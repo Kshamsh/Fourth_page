@@ -39,10 +39,6 @@
   .authorization-header-box {
     padding-bottom: 18px;
   }
-//   .eye{
-//     fill:#006d79;
-//     zoom: 0.07;
-//   }
   .authorization-text {
     font-weight: 545;
     font-size: 20px;
@@ -74,7 +70,7 @@
     color: $password-button-color;
   }
   .password-button:hover {
-    color: #006d79;
+    color:$password-button-color2;
   }
   @media (max-width: 1100px) {
     .authorization-container {
