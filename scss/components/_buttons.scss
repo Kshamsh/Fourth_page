@@ -1,0 +1,21 @@
+.button {
+    background-color: rgba($color: #000000, $alpha: 0);
+    border-radius: 2px;
+    border: black 1px solid;
+    max-width: 150px;
+    height: 35px;
+    width: 100%;
+    margin: 20px;
+  }
+  .button:hover{
+      color: #3f3c3c;
+      border-color:#3f3c3c;
+  }
+  .button-left {
+    background-color: $password-button-color;
+    color: white;
+    font-size: 17px;
+  }
+  .button-left:hover{
+      background-color: $password-button-color2;
+  }
